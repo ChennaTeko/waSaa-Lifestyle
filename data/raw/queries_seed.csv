@@ -1,0 +1,25 @@
+query_text,query_type,target_category,location_constraint,budget_max,language,created_by
+I need an affordable saloonist near Westlands,typo,Beauty & Wellness,Westlands,,en,manual
+find me someone to braid my hair this weekend,synonym,Beauty & Wellness,,,en,manual
+cheap haircut in Kasarani,price-aware,Beauty & Wellness,Kasarani,1000,en,manual
+bridal makeup artist,clear,Beauty & Wellness,,,en,manual
+I want to relax after a stressful week,vague,Beauty & Wellness,,,en,manual
+dentist for teeth cleaning,clear,Healthcare,,,en,manual
+someone to treat my back pain at home,vague,Healthcare,,,en,manual
+physio in Kilimani under 5000,price-aware,Healthcare,Kilimani,5000,en,manual
+I feel anxious and need someone to talk to,vague,Healthcare,,,en,manual
+get my eyes checked and buy glasses,multi-intent,Healthcare,,,en,manual
+taxi to the airport early morning,clear,Transport,,,en,manual
+I am moving house next month and need a truck and people to carry things,multi-intent,Transport,,,en,manual
+send a parcel across town today,synonym,Transport,,,en,manual
+someone to wash my car at home,clear,Transport,,,en,manual
+find me a reliable electrician who can come to Karen,clear,Domestic Services,Karen,,en,manual
+my sink is blocked and water is leaking,vague,Domestic Services,,,en,manual
+house help for my kids,synonym,Domestic Services,,,en,manual
+clean my sofas and carpets,clear,Domestic Services,,,en,manual
+cockroaches everywhere in my flat,vague,Domestic Services,,,en,manual
+maths tutor for my son in form three,clear,Education Support,,,en,manual
+where can my child learn to code,vague,Education Support,,,en,manual
+learn to play an instrument,vague,Education Support,,,en,manual
+I want to get my driving licence,vague,Education Support,,,en,manual
+help me improve my CV and prepare for job interviews,multi-intent,Education Support,,,en,manual
