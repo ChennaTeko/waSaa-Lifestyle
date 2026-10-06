@@ -1,4 +1,8 @@
-# Project Decision Log
+
+| 8 | 2026-10-05 | Kaggle Yelp Dataset selected as the initial public dataset | Provides real business categories, ratings, review text and location information suitable for NLP-based service discovery |
+| 9 | 2026-10-05 | Yelp records are mapped into WaSaa service categories | The source dataset is not designed specifically for WaSaa and therefore requires domain mapping before entering the application database |
+| 10 | 2026-10-05 | Raw Kaggle files are excluded from Git | Dataset files are large and should not be committed to the application repository |
+| 11 | 2026-10-05 | Kaggle data is treated as public external data rather than Kenyan data | The dataset covers US and Canadian metropolitan areas and cannot be presented as representative Kenyan service data |# Project Decision Log
 | # | Date | Decision | Reason |
 |---|------|----------|--------|
 | 1 | 2026-10-05 | TF-IDF + cosine similarity is the NLP baseline | Explainable, no training data needed, laptop-friendly, evaluable with ranking metrics |

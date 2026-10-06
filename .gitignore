@@ -8,3 +8,13 @@ __pycache__/
 data/processed/*.csv
 data/processed/*.json
 !data/processed/.gitkeep
+
+# Kaggle datasets
+data/raw/yelp/*.zip
+data/raw/yelp/*.json
+
+# Local database files
+*.sqlite3
+
+# Environment files
+.env
